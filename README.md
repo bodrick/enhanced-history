@@ -20,6 +20,6 @@ Manual Installation
 4. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 5. Click the LOAD UNPACKED button and select the extension directory.
 
-![Select Directory and click LOAD UNPACKED](https://i.imgur.com/blokl7A.png)
+![Select Directory and click LOAD UNPACKED](images/manual-install-chrome-load-unpacked.png?raw=true)
 
 Any changes you make to your cloned repo or directory will be seen immediately in the installed extension. Though sometimes changing translation files (in _locales/) requires a manual extension refresh in Chrome's extension settings.
